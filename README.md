@@ -31,3 +31,4 @@ special  counter: 12    0%
 upper    counter: 114   1%
 lower    counter: 7987  80%
 decimal  counter: 2818  28%
+
